@@ -65,3 +65,4 @@
 
 @media(max-width:360px){.hero-actions{align-items:flex-start;flex-direction:column}.hero{min-height:800px}.benefits>div{font-size:8px}.program-grid{grid-template-columns:1fr}.contact-actions{flex-direction:column}.header .brand>span{font-size:23px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.loader{display:none!important}.motion-ready [data-reveal]{opacity:1!important;transform:none!important}}
+.program-card img{height:auto}
